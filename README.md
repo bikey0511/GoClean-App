@@ -53,12 +53,6 @@ A multi-role mobile application that connects customers with professional cleani
 
 ---
 
-## 📷 Screenshots
-
-(Add screenshots here)
-
----
-
 ## ⚙️ Installation
 
 ```bash
